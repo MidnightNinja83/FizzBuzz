@@ -1,0 +1,15 @@
+@FizzBuzz.Host_HostAddress = http://localhost:5125
+
+GET {{FizzBuzz.Host_HostAddress}}/FizzBuzz
+Accept: application/json
+ 
+###
+
+
+GET {{FizzBuzz.Host_HostAddress}}/FizzBuzz?input=5
+Accept: application/json
+ 
+
+###
+GET {{FizzBuzz.Host_HostAddress}}/FizzBuzz?input=17
+Accept: application/json

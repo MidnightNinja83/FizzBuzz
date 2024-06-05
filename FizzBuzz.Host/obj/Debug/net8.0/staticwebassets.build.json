@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RiR8DMzaGlvDksfh5HEaLWXfYk+j8uH5V+ugVUtgL/M=",
+  "Source": "FizzBuzz.Host",
+  "BasePath": "_content/FizzBuzz.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
